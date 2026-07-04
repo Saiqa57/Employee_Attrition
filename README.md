@@ -1,1 +1,2 @@
 # Employee_Attrition
+Employee attrition is a significant challenge for organizations as it increases recruitment costs, reduces productivity, and impacts business continuity. This project analyzes HR data to identify employee groups with high attrition and determine the workplace factors associated with employee turnover. SQL was used for data extraction and analysis, while Power BI was used to develop an interactive dashboard for decision-making.
